@@ -12,10 +12,10 @@ This is a remote controlled ESP32 Rover car thingy that enables users to remotel
 5. Fill secrets.h with WiFi credentials and flash ESP32.
 
 ## AWS Amplify Component
-# to do
+to do
 
 ## AWS Lambda Component
-# work on this later
-# 1. Create new lambda policy to publish to the AWS IOT MQTT topic dedicated to WebRover
+work on this later
+1. Create new lambda policy to publish to the AWS IOT MQTT topic dedicated to WebRover
 
 
